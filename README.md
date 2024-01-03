@@ -43,6 +43,7 @@ Exame dos clientes que compram mais produtos, com foco na faixa salarial.
 ## Ferramentas Utilizadas:
 
 SQL: Consultas realizadas no AWS Athena.
+
 Armazenamento: Utilização de S3 Bucket para armazenar a versão dos dados disponíveis no link do GitHub.
 
 
